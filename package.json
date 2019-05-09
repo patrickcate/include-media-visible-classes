@@ -1,0 +1,19 @@
+{
+  "name": "include-media-visible-classes",
+  "version": "1.0.0",
+  "description": "An include-media plugin to generate visibility utility classes for showing elements at different breakpoints.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickcate/include-media-visible-classes.git"
+  },
+  "keywords": [
+    "include-media",
+    "sass"
+  ],
+  "author": "Patrick Cate",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/patrickcate/include-media-visible-classes/issues"
+  },
+  "homepage": "https://github.com/patrickcate/include-media-visible-classes#readme"
+}

@@ -1,6 +1,6 @@
 # include-media-visible-classes
 
-An [include-media plugin](https://github.com/eduardoboucas/include-media) to generate utility classes for showing elements at different breakpoints.
+An [include-media plugin](https://github.com/eduardoboucas/include-media) to generate visibility utility classes for showing elements at different breakpoints.
 
 Largely a fork of [include-media-hidden-classes](https://github.com/eduardoboucas/include-media-hidden-classes)
 
